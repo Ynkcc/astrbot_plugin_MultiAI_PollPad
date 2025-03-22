@@ -1,6 +1,7 @@
-name: helloworld # 这是你的插件的唯一识别名。
-desc: 这是 AstrBot 的默认插件，支持关键词回复。 # 插件简短描述
-help: 输入 /keyword 查看关键词回复帮助。 # 插件的帮助信息
-version: v1.3 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: Soulter # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+name: MultiAI_PollPad # 这是你的插件的唯一识别名。
+desc: 轮询调用配置的大语言模型，以输出多个结果。同时将ai的结果拷贝至在线文本编辑器，以便于用户复制。 # 插件简短描述
+name: MultiAI_PollPad # 这是你的插件的唯一识别名。
+help: 输入 /MultiAI_PollPad 和你的问题 进行调用
+version: v0.1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: ynkcc # 作者
+repo: https://github.com/ynkcc/astrbot_plugin_MultiAI_PollPad # 插件的仓库地址
