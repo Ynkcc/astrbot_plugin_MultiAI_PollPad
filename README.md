@@ -6,7 +6,7 @@
 
 # 如果你需要使用markdown2image作为markdown转图片解析器的话，你需要额外执行下面两段命令
 ```
-pip install markdown2image
+pip install markdown2image playwright
 playwright install chromium
 ```
 

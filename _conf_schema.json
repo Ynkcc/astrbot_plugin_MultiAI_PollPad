@@ -3,7 +3,7 @@
         "type": "bool",
         "description": "使用markdown2image替代Astrbot提供的t2i",
         "default": false,
-        "hint": "额外执行 pip install markdown2image ， playwright install chromium 两条命令"
+        "hint": "额外执行 pip install markdown2image playwright ， playwright install chromium 两条命令"
     },
     "excluded_models": {
         "description": "选择要排除的大语言模型名称",
