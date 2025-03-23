@@ -41,7 +41,7 @@ class MultiAIPollPad(Star):
         """插件卸载时的清理"""
         await self.close_session()
 
-    @filter.command("MultiAI_PollPad")
+    @filter.command("multiai")
     async def auto_reply(self, event: AstrMessageEvent):
         if len(event.message_str) < 5:
             return

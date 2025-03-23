@@ -1,7 +1,7 @@
 {
     "use_markdown2image": {
         "type": "bool",
-        "description": "使用markdown2image替代Astrbot提供的t2i",
+        "description": "使用markdown2image替代Astrbot提供的t2i（效果并不好，不建议开启）",
         "default": false,
         "hint": "额外执行 pip install markdown2image playwright ， playwright install chromium 两条命令"
     },
